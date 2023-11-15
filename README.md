@@ -1,6 +1,6 @@
 # Equity-Finance-Helper-LLM
 
-I've developed a Language Model for Equity Analysis that stands at the intersection of innovation and financial intelligence.
+I've developed a Large Language Model for Equity Analysis that stands at the intersection of innovation and financial intelligence.
 
 ### Key Features
 
